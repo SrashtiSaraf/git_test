@@ -1,2 +1,2 @@
 # git_test
-I am practising git commands and I will becoe a successful , technical Devops engineer.
+I am practising git commands and I will become a successful , technical Devops engineer.
