@@ -1,3 +1,4 @@
+
 LQA3 - shut down job is not activated.
 
 Pg1- is still active in jenkins
@@ -14,3 +15,7 @@ pg 8
 pg9
 
 ** start all VMs , stop all Vms
+
+I am practising git commands and I will become a successful , technical Devops engineer.
+this is bob reporting.
+
